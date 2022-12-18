@@ -343,7 +343,7 @@ main {
 
 .sidebar {
   margin-bottom: 15px;
-  max-height: 112px;
+  max-height: 180px;
   overflow: hidden;
   transition: var(--transition-2);
 }
@@ -364,6 +364,16 @@ main {
   background: var(--bg-gradient-onyx);
   border-radius: 20px;
 } */
+
+.avatar-box {
+  border-radius: 30px;
+}
+
+.avatar-box img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+}
 
 .info-content .name {
   color: var(--white-2);
