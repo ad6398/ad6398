@@ -1,4 +1,4 @@
-### Hi there 👋
+### My portfolio repo 👋
 
 <!--
 **ad6398/ad6398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
