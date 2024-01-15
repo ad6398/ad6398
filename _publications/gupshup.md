@@ -23,6 +23,6 @@ mBART and multi-view seq2seq models obtain the best performances on this new dat
 We also conduct an extensive qualitative analysis to provide insight into the models and some
 of their shortcomings.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
