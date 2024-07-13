@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello!"
+title: "Hello World,"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,3 +15,9 @@ I work at the intersection of AI research and engineering challenges. Currently,
 ## Brief history
 
 I was born and raised in India. I completed my undergraduate studies in Computer Science at IIT Dhanbad in 2020. After that, I worked for three years as an ML engineer at Instabase and Walmart. Now, I'm pursuing an MS in Computer Science with a specialization in AI at NYU Courant. I'm also an adrenaline junkie who loves adventure sports.
+
+Pls visit work experience, research and projects sections to learn more about my work.
+
+
+If you are a hiring manager you should read this to assess if we are good fit.
+
