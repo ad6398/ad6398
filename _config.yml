@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Amardeep Kumar"
-  avatar           : "profile.png"
-  bio              : "pursuing Masters in Computer Science from New York University"
+  avatar           : "avatar.png"
+  bio              : "Building and Scaling GenAI || LLM ops"
   location         : "New York City"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/ad6398 "
+  github           : "ad6398"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "amardeep.kumar@nyu.edu"
+  linkedin         : "ad6398"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

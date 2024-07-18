@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/gupshup
 excerpt: 'Summarizing open-domain code-switched conversations.'
 date: 2021-11-07
-venue: 'Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing,'
+venue: 'Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing'
 paperurl: 'https://aclanthology.org/2021.emnlp-main.499.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
@@ -23,6 +23,6 @@ mBART and multi-view seq2seq models obtain the best performances on this new dat
 We also conduct an extensive qualitative analysis to provide insight into the models and some
 of their shortcomings.
 
-<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
+[Download paper here](https://aclanthology.org/2021.emnlp-main.499.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
