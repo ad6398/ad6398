@@ -11,9 +11,9 @@ author_profile: true
 ## Software Engineer, Machine Learning at *Instabase*
 **January 2022 - August 2023**
 
-- Designed and implemented a model inference service, regression and load-testing framework to integrate Large-Language-Models and Generative AI capabilities into Instabase’s platform.
-- Devised a model drift detection pipeline using layout change detectors to detect format drift and employed Least-Squares Density Difference and Maximum Mean Discrepancies on document embeddings to catch content drift in documents.
-- Designed and implemented the async Model service, which combined async workers, RabbitMQ, two levels of caching, and sticky routing techniques to improve inference time by 40% on a compute-limited Kubernetes environment.
+- Integrated Large Language Models, Retrieval Augmented Generation (RAG), and Generative AI capabilities into Instabase’s platform, including model inference service, regression, and load-testing framework.
+- Designed and Implemented an asynchronous model serving platform using asynchronous workers, RabbitMQ, multi-level caching, and sticky routing, along with hardware acceleration (ONNX) and model prunning, to reduce inference time by 40% in a compute-limited Kubernetes environment. Built a pipeline to detect format and content drift in documents.
+- Enhanced OCR service for improved document parsing and digitization using the LayoutLM model for better table extraction by 60%. Developed an algorithm to detect and process vertical text in PDFs.
 
 ## Software Engineer II at *Walmart Global Tech India*
 **August 2020 — December 2021**
