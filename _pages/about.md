@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Amardeep and I love maths, coding and Machine Learning. I am pursuing MS in CS + AI at [NYU - Courant](https://cims.nyu.edu/dynamic/).  One day, I hope to start a successful, calm business with a small, close-knit team, solving niche AI research problems.
+I am Amardeep and I love maths, coding and Machine Learning. I am pursuing MS in CS + AI at [NYU - Courant](https://cims.nyu.edu/dynamic/).  
 
 I work at the intersection of AI research and engineering challenges. Currently, my interests lie in tackling reasoning, alignment, and hallucination issues in large language models (LLMs) across various fields, such as spatio-temporal reasoning, code-switching languages, and multi-modality. Although I specialize in NLP, I consider myself an AI nomad, captivated by any impactful and fascinating AI problem.
 
+One day, I hope to start a profitable and calm business solving niche AI research problems.
 
 ## Brief timeline
 
