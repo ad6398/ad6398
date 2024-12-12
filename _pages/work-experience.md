@@ -8,6 +8,15 @@ author_profile: true
 
 # Work Experience
 
+## Machine Learning Engineer Intern at *PineGap.ai*
+**May, 2024 - August, 2024**
+
+- Designed high-level and low-level components of an AI assistant for equity research and financial market analysis. I was the first AI hire, owned and built everything from scratch. 
+- Developed end-to-end components of a keyword-guided retrieval and search engine. Used BM25, Elastic Search, dense vector search, fine-tuned Splade, and ColBERT models for query augmentation and candidate reranking.
+- Built an advanced agentic RAG framework with CI/CD pipelines for query understanding, document ingestion, and knowledge graph building to support Q&A over the past 10 years of financial documents from S&P 2000 companies.
+- Developed and containerized microservices to fine-tune and serve LLMs (LLaMa-3, Phi-3 and Mixtral) as APIs using Docker and Kubernetes. Employed techniques like quantization, flash attention, LoRA, data and model parallelism for efficient fine-tuning on GPUs. Utilized vLLM, Paged-attention, Kafka, and Redis for faster LLM inference service.
+
+
 ## Software Engineer, Machine Learning at *Instabase*
 **January 2022 - August 2023**
 

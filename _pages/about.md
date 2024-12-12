@@ -8,15 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am Amardeep and I love maths, coding and Machine Learning. I am pursuing MS in CS + AI at [NYU - Courant](https://cims.nyu.edu/dynamic/).  
+I am Amardeep and I love maths, coding and Machine Learning. I am pursuing MS in CS + AI at [NYU - Courant](https://cims.nyu.edu/dynamic/).
 
-I work at the intersection of AI research and engineering challenges. Currently, my interests lie in tackling reasoning, alignment, and hallucination issues in large language models (LLMs) across various fields, such as spatio-temporal reasoning, code-switching languages, and multi-modality. Although I specialize in NLP, I consider myself an AI nomad, captivated by any impactful and fascinating AI problem.
+I work at the intersection of AI research and engineering challenges. Currently, my interests lie in tackling reasoning, alignment, and hallucination issues in large language models (LLMs) across various fields, such as Visual question-answering, spatio-temporal reasoning, code-switching languages, and multi-modality. Although I specialize in NLP, I consider myself an AI nomad, captivated by any impactful and fascinating AI problem.
 
-One day, I hope to start a profitable and calm business solving niche AI research problems.
+One day, I want to start a profitable and calm business solving niche AI research problems.
 
-## Brief timeline
-
-I was born and raised in India and completed my undergraduate studies in Computer Science at [IIT Dhanbad](https://www.iitism.ac.in/) in 2020. Afterward, I worked for three years as an ML engineer at [Instabase](https://instabase.com/) and [Walmart](https://tech.walmart.com/content/walmart-global-tech/en_us.html). Currently, I am pursuing an MS in Computer Science with a specialization in AI at [NYU - Courant](https://cims.nyu.edu/dynamic/).
 
 Outside of my professional interests, I am an adrenaline junkie who loves adventure sports. In my free time, I enjoy running 5K races, trekking, hiking, and binge-watching Netflix or anime.
 
