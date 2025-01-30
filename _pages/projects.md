@@ -15,7 +15,7 @@ author_profile: true
 
 2. [**RLHF on Microsoft/Phi-2 for dialogues**](https://api.wandb.ai/links/ak11089/zcwc0nnz)
    
-  Fine-tuning Phi-2 using Direct Preference Optimization (DPO) on the Anthropic Helpful and Harmless dialogue dataset, leveraging LoRA adapters and 8-bit quantization for efficient training, showing improved reward margins.
+   Fine-tuning Phi-2 using Direct Preference Optimization (DPO) on the Anthropic Helpful and Harmless dialogue dataset, leveraging LoRA adapters and 8-bit quantization for efficient training, showing improved reward margins.
 
 3. [**Conditional Diffusion Model for Next Frame Generation**](https://github.com/ad6398/Conditional-Diffusion-Model-for-Next-Frame-Generation)
    
