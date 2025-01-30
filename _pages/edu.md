@@ -5,7 +5,6 @@ permalink: /education/
 author_profile: true
 ---
 
-{% include base_path %}
 
 # Education
 
@@ -13,7 +12,7 @@ author_profile: true
 
 **Master of Science, Computer Science [AI specialization]**  
 _Sep 2023 - May 2025_  
-Subjects: Deep Learning, Large Language and Vision Models, Computer Vision, Conceptual Gaps in Modern Machine Learning, Operating Systems, Programming Languages, Algorithms.
+Subjects: Deep Learning, Large Language and Vision Models, Deep Reinforcement Learning, Computer Vision, Conceptual Gaps in Modern Machine Learning, Cloud and Machine Learning, Operating Systems, Programming Languages, Algorithms.
 
 ## Indian Institute Of Technology (ISM), Dhanbad
 
